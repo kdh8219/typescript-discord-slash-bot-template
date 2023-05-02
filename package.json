@@ -1,0 +1,11 @@
+{
+  "name": "typescript-discord-slash-bot-template",
+  "version": "1.0.0",
+  "description": "discord slash bot template",
+  "author": "kdh8219 <65698239+kdh8219@users.noreply.github.com>",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "discord.js": "^14.10.2",
+    "dotenv": "^16.0.3"
+  }
+}
